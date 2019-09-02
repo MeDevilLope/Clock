@@ -12,7 +12,7 @@ public class Window extends JFrame {
 		add(timerDisplay);
 		pack();
 
-		setTitle("Timer");
+		setTitle("Clock");
 		setLocationRelativeTo(null);
 		setVisible(true);
 		setResizable(false);
