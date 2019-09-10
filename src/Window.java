@@ -3,7 +3,7 @@ import java.awt.Color;
 import javax.swing.JFrame;
 
 public class Window extends JFrame {
-
+	private static final long serialVersionUID = 1L;
 	Display timerDisplay;
 
 	public Window() {
@@ -12,7 +12,7 @@ public class Window extends JFrame {
 		add(timerDisplay);
 		pack();
 
-		setTitle("Clock");
+		setTitle("Timer");
 		setLocationRelativeTo(null);
 		setVisible(true);
 		setResizable(false);

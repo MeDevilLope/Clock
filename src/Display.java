@@ -12,6 +12,8 @@ import javax.swing.Timer;
 
 public class Display extends JPanel {
 
+
+	private static final long serialVersionUID = 1L;
 	Digit digit1, digit2, digit3, digit4, digit5, digit6, seperator1, seperator2;
 	int number;
 	Date date;
