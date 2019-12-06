@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5e9412-07f1-4dfa-ab73-d1beea481631" name="Default Changelist" comment="comments" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1UbIoL3mcT1Gul32diUAmDQtAAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5e9412-07f1-4dfa-ab73-d1beea481631" name="Default Changelist" comment="" />
+      <created>1575619041953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575619041953</updated>
+      <workItem from="1575619045340" duration="247000" />
+    </task>
+    <task id="LOCAL-00001" summary="comments">
+      <created>1575619244643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575619244643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="261" width="808" height="685" key="#Notifications" timestamp="1575619058453">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="554" y="261" width="808" height="685" key="#Notifications/0.0.1920.1023/1920.0.1280.1024@0.0.1920.1023" timestamp="1575619058453" />
+    <state x="528" y="180" width="859" height="843" key="CommitChangelistDialog2" timestamp="1575619341456">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="528" y="180" width="859" height="843" key="CommitChangelistDialog2/0.0.1920.1023/1920.0.1280.1024@0.0.1920.1023" timestamp="1575619341456" />
+    <state x="97" y="99" width="1726" height="1003" key="DiffContextDialog" timestamp="1575619387508">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="97" y="99" width="1726" height="1003" key="DiffContextDialog/0.0.1920.1023/1920.0.1280.1024@0.0.1920.1023" timestamp="1575619387508" />
+    <state x="736" y="515" width="443" height="176" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575619365864">
+      <screen x="0" y="0" width="1920" height="1023" />
+    </state>
+    <state x="736" y="515" width="443" height="176" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1023/1920.0.1280.1024@0.0.1920.1023" timestamp="1575619365864" />
+  </component>
+</project>
